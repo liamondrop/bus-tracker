@@ -1,0 +1,32 @@
+{
+  "header": {
+    "gtfs_realtime_version": "1",
+    "incrementality": 0,
+    "timestamp": 1526688495,
+    "user-data": "trimet"
+  },
+  "entity": [
+    {
+      "id": "3644",
+      "vehicle": {
+        "trip": {
+          "trip_id": "8271892",
+          "route_id": "62"
+        },
+        "vehicle": {
+          "id": "3644",
+          "label": "62 To Washington Square"
+        },
+        "position": {
+          "latitude": 45.43866,
+          "longitude": -122.82485,
+          "bearing": 66
+        },
+        "current_stop_sequence": 45,
+        "stop_id": "8665",
+        "current_status": 2,
+        "timestamp": 1526688488
+      }
+    }
+  ]
+}

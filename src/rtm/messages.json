@@ -1,0 +1,1056 @@
+[
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "2246",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8272830",
+            "route_id": "71"
+          },
+          "vehicle": {
+            "id": "2246",
+            "label": "71 To Parkrose TC"
+          },
+          "position": {
+            "latitude": 45.55544,
+            "longitude": -122.58996,
+            "bearing": 90
+          },
+          "current_stop_sequence": 67,
+          "stop_id": "4752",
+          "current_status": 2,
+          "timestamp": 1526702463
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "2247",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8272830",
+            "route_id": "71"
+          },
+          "vehicle": {
+            "id": "2247",
+            "label": "71 To Parkrose TC"
+          },
+          "position": {
+            "latitude": 45.55544,
+            "longitude": -122.58996,
+            "bearing": 90
+          },
+          "current_stop_sequence": 67,
+          "stop_id": "4752",
+          "current_status": 2,
+          "timestamp": 1526702463
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "203",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8281900",
+            "route_id": "290"
+          },
+          "vehicle": {
+            "id": "203",
+            "label": "Orange Line to Milwaukie"
+          },
+          "position": {
+            "latitude": 45.52397,
+            "longitude": -122.67544,
+            "bearing": 178
+          },
+          "current_stop_sequence": 2,
+          "stop_id": "9303",
+          "current_status": 1,
+          "timestamp": 1526702463
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "216",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8277767",
+            "route_id": "100"
+          },
+          "vehicle": {
+            "id": "216",
+            "label": "Blue to SW 185th"
+          },
+          "position": {
+            "latitude": 45.526955,
+            "longitude": -122.670555,
+            "bearing": 234
+          },
+          "current_stop_sequence": 9,
+          "stop_id": "8378",
+          "current_status": 2,
+          "timestamp": 1526702463
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "219",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8275987",
+            "route_id": "90"
+          },
+          "vehicle": {
+            "id": "219",
+            "label": "Red to Airport"
+          },
+          "position": {
+            "latitude": 45.518475,
+            "longitude": -122.67915,
+            "bearing": 110
+          },
+          "current_stop_sequence": 8,
+          "stop_id": "8334",
+          "current_status": 1,
+          "timestamp": 1526702464
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "226",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8276327",
+            "route_id": "90"
+          },
+          "vehicle": {
+            "id": "226",
+            "label": "Red Line to Beaverton"
+          },
+          "position": {
+            "latitude": 45.57689,
+            "longitude": -122.567116,
+            "bearing": 169
+          },
+          "current_stop_sequence": 2,
+          "stop_id": "10577",
+          "current_status": 1,
+          "timestamp": 1526702464
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "238",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8281551",
+            "route_id": "290"
+          },
+          "vehicle": {
+            "id": "238",
+            "label": "Orange Line to City Ctr/Expo"
+          },
+          "position": {
+            "latitude": 45.43102,
+            "longitude": -122.63508,
+            "bearing": 354
+          },
+          "current_stop_sequence": 1,
+          "stop_id": "13720",
+          "current_status": 1,
+          "timestamp": 1526702463
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "241",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8281551",
+            "route_id": "290"
+          },
+          "vehicle": {
+            "id": "241",
+            "label": "Orange Line to City Ctr/Expo"
+          },
+          "position": {
+            "latitude": 45.43102,
+            "longitude": -122.63508,
+            "bearing": 354
+          },
+          "current_stop_sequence": 1,
+          "stop_id": "13720",
+          "current_status": 1,
+          "timestamp": 1526702463
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "301",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8276327",
+            "route_id": "90"
+          },
+          "vehicle": {
+            "id": "301",
+            "label": "Red Line to Beaverton"
+          },
+          "position": {
+            "latitude": 45.57689,
+            "longitude": -122.567116,
+            "bearing": 169
+          },
+          "current_stop_sequence": 2,
+          "stop_id": "10577",
+          "current_status": 1,
+          "timestamp": 1526702464
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "302",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8277767",
+            "route_id": "100"
+          },
+          "vehicle": {
+            "id": "302",
+            "label": "Blue to SW 185th"
+          },
+          "position": {
+            "latitude": 45.526955,
+            "longitude": -122.670555,
+            "bearing": 234
+          },
+          "current_stop_sequence": 9,
+          "stop_id": "8378",
+          "current_status": 2,
+          "timestamp": 1526702463
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "324",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8275987",
+            "route_id": "90"
+          },
+          "vehicle": {
+            "id": "324",
+            "label": "Red to Airport"
+          },
+          "position": {
+            "latitude": 45.518475,
+            "longitude": -122.67915,
+            "bearing": 110
+          },
+          "current_stop_sequence": 8,
+          "stop_id": "8334",
+          "current_status": 1,
+          "timestamp": 1526702464
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "407",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8276328",
+            "route_id": "90"
+          },
+          "vehicle": {
+            "id": "407",
+            "label": "Red Line to Beaverton"
+          },
+          "position": {
+            "latitude": 45.5294,
+            "longitude": -122.601654,
+            "bearing": 231
+          },
+          "current_stop_sequence": 8,
+          "stop_id": "8372",
+          "current_status": 2,
+          "timestamp": 1526702465
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "419",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8276328",
+            "route_id": "90"
+          },
+          "vehicle": {
+            "id": "419",
+            "label": "Red Line to Beaverton"
+          },
+          "position": {
+            "latitude": 45.5294,
+            "longitude": -122.601654,
+            "bearing": 231
+          },
+          "current_stop_sequence": 8,
+          "stop_id": "8372",
+          "current_status": 2,
+          "timestamp": 1526702465
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "2612",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8274902",
+            "route_id": "77"
+          },
+          "vehicle": {
+            "id": "2612",
+            "label": "77 Montgomry Pk"
+          },
+          "position": {
+            "latitude": 45.53383,
+            "longitude": -122.49745,
+            "bearing": 248
+          },
+          "current_stop_sequence": 27,
+          "stop_id": "13026",
+          "current_status": 2,
+          "timestamp": 1526702464
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "2806",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8269892",
+            "route_id": "44"
+          },
+          "vehicle": {
+            "id": "2806",
+            "label": "44 Mocks Crest to St Johns"
+          },
+          "position": {
+            "latitude": 45.509644,
+            "longitude": -122.68138,
+            "bearing": 20
+          },
+          "current_stop_sequence": 35,
+          "stop_id": "7772",
+          "current_status": 2,
+          "timestamp": 1526702463
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "2815",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8271600",
+            "route_id": "57"
+          },
+          "vehicle": {
+            "id": "2815",
+            "label": "57 To Beaverton TC"
+          },
+          "position": {
+            "latitude": 45.501125,
+            "longitude": -122.93797,
+            "bearing": 65
+          },
+          "current_stop_sequence": 45,
+          "stop_id": "10157",
+          "current_status": 1,
+          "timestamp": 1526702462
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "2817",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8265633",
+            "route_id": "12"
+          },
+          "vehicle": {
+            "id": "2817",
+            "label": "12 To Tigard TC"
+          },
+          "position": {
+            "latitude": 45.4554,
+            "longitude": -122.71639,
+            "bearing": 240
+          },
+          "current_stop_sequence": 67,
+          "stop_id": "8213",
+          "current_status": 2,
+          "timestamp": 1526702464
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "2827",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8270457",
+            "route_id": "52"
+          },
+          "vehicle": {
+            "id": "2827"
+          },
+          "position": {
+            "latitude": 45.49163,
+            "longitude": -122.800934,
+            "bearing": 243
+          },
+          "current_stop_sequence": 1,
+          "stop_id": "9986",
+          "current_status": 1,
+          "timestamp": 1526702458
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "2839",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8275820",
+            "route_id": "88"
+          },
+          "vehicle": {
+            "id": "2839",
+            "label": "88 To Willow Ck-185th TC"
+          },
+          "position": {
+            "latitude": 45.47901,
+            "longitude": -122.85161,
+            "bearing": 2
+          },
+          "current_stop_sequence": 29,
+          "stop_id": "9673",
+          "current_status": 2,
+          "timestamp": 1526702464
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "2909",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8270274",
+            "route_id": "48"
+          },
+          "vehicle": {
+            "id": "2909",
+            "label": "48 To Sunset TC"
+          },
+          "position": {
+            "latitude": 45.515926,
+            "longitude": -122.79079,
+            "bearing": 116
+          },
+          "current_stop_sequence": 51,
+          "stop_id": "9627",
+          "current_status": 2,
+          "timestamp": 1526702462
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "3004",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8273658",
+            "route_id": "73"
+          },
+          "vehicle": {
+            "id": "3004",
+            "label": "73 To Foster & 94th"
+          },
+          "position": {
+            "latitude": 45.55539,
+            "longitude": -122.558105,
+            "bearing": 89
+          },
+          "current_stop_sequence": 6,
+          "stop_id": "4724",
+          "current_status": 2,
+          "timestamp": 1526702464
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "3016",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8268521",
+            "route_id": "22"
+          },
+          "vehicle": {
+            "id": "3016",
+            "label": "22 To Gateway TC"
+          },
+          "position": {
+            "latitude": 45.530556,
+            "longitude": -122.56386,
+            "bearing": 345
+          },
+          "current_stop_sequence": 44,
+          "stop_id": "8194",
+          "current_status": 1,
+          "timestamp": 1526702463
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "3035",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8267544",
+            "route_id": "19"
+          },
+          "vehicle": {
+            "id": "3035",
+            "label": "19 Mt Scott-112th"
+          },
+          "position": {
+            "latitude": 45.46463,
+            "longitude": -122.55609,
+            "bearing": 89
+          },
+          "current_stop_sequence": 99,
+          "stop_id": "4036",
+          "current_status": 1,
+          "timestamp": 1526702462
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "3123",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8263694",
+            "route_id": "4"
+          },
+          "vehicle": {
+            "id": "3123",
+            "label": "4  To St. Johns"
+          },
+          "position": {
+            "latitude": 45.5881,
+            "longitude": -122.75164,
+            "bearing": 206
+          },
+          "current_stop_sequence": 148,
+          "stop_id": "4818",
+          "current_status": 2,
+          "timestamp": 1526702463
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "3153",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8264493",
+            "route_id": "8"
+          },
+          "vehicle": {
+            "id": "3153",
+            "label": "8  OHSU-VA Hosp"
+          },
+          "position": {
+            "latitude": 45.51025,
+            "longitude": -122.68219,
+            "bearing": 200
+          },
+          "current_stop_sequence": 37,
+          "stop_id": "10491",
+          "current_status": 1,
+          "timestamp": 1526702460
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "3209",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8265634",
+            "route_id": "12"
+          },
+          "vehicle": {
+            "id": "3209",
+            "label": "12 To Tigard TC"
+          },
+          "position": {
+            "latitude": 45.51025,
+            "longitude": -122.68219,
+            "bearing": 200
+          },
+          "current_stop_sequence": 43,
+          "stop_id": "10491",
+          "current_status": 1,
+          "timestamp": 1526702462
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "3257",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8268071",
+            "route_id": "20"
+          },
+          "vehicle": {
+            "id": "3257",
+            "label": "20 Gresham TC"
+          },
+          "position": {
+            "latitude": 45.52334,
+            "longitude": -122.69675,
+            "bearing": 93
+          },
+          "current_stop_sequence": 39,
+          "stop_id": "749",
+          "current_status": 2,
+          "timestamp": 1526702463
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "3512",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8266706",
+            "route_id": "15"
+          },
+          "vehicle": {
+            "id": "3512",
+            "label": "15 To NW Yeon"
+          },
+          "position": {
+            "latitude": 45.51643,
+            "longitude": -122.63512,
+            "bearing": 270
+          },
+          "current_stop_sequence": 41,
+          "stop_id": "417",
+          "current_status": 1,
+          "timestamp": 1526702463
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "3540",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8267069",
+            "route_id": "16"
+          },
+          "vehicle": {
+            "id": "3540",
+            "label": "16 To Sauvie Island"
+          },
+          "position": {
+            "latitude": 45.628994,
+            "longitude": -122.8151,
+            "bearing": 39
+          },
+          "current_stop_sequence": 47,
+          "stop_id": "8437",
+          "current_status": 2,
+          "timestamp": 1526702464
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "3548",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8263417",
+            "route_id": "4"
+          },
+          "vehicle": {
+            "id": "3548",
+            "label": "4  Gresham TC"
+          },
+          "position": {
+            "latitude": 45.503075,
+            "longitude": -122.4285,
+            "bearing": 112
+          },
+          "current_stop_sequence": 144,
+          "stop_id": "2253",
+          "current_status": 2,
+          "timestamp": 1526702464
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "3575",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8274371",
+            "route_id": "75"
+          },
+          "vehicle": {
+            "id": "3575",
+            "label": "75 To Milwaukie"
+          },
+          "position": {
+            "latitude": 45.577118,
+            "longitude": -122.69869,
+            "bearing": 90
+          },
+          "current_stop_sequence": 24,
+          "stop_id": "3563",
+          "current_status": 2,
+          "timestamp": 1526702463
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "3576",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8263963",
+            "route_id": "6"
+          },
+          "vehicle": {
+            "id": "3576",
+            "label": "6  Jantzen Beach"
+          },
+          "position": {
+            "latitude": 45.54816,
+            "longitude": -122.66152,
+            "bearing": 0
+          },
+          "current_stop_sequence": 24,
+          "stop_id": "5910",
+          "current_status": 1,
+          "timestamp": 1526702463
+        }
+      }
+    ]
+  },
+  {
+    "header": {
+      "gtfs_realtime_version": "1",
+      "incrementality": 0,
+      "timestamp": 1526702465,
+      "user-data": "trimet"
+    },
+    "entity": [
+      {
+        "id": "3704",
+        "vehicle": {
+          "trip": {
+            "trip_id": "8263704",
+            "route_id": "4"
+          },
+          "vehicle": {
+            "id": "3704"
+          },
+          "position": {
+            "latitude": 45.50305,
+            "longitude": -122.42841,
+            "bearing": 110
+          },
+          "current_stop_sequence": 1,
+          "stop_id": "2253",
+          "current_status": 1,
+          "timestamp": 1526702462
+        }
+      }
+    ]
+  }
+]
