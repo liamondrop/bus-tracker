@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import get from 'lodash/get';
-import MapView from '../map-view/map-view';
-import RoutesTable from '../routes-table/routes-table';
+import Map from '../map';
+import Routes from '../routes';
 import initializeRTM from '../../rtm/initialize-rtm-sdk';
 import { dataReceived } from '../../actions/data-received';
 
@@ -15,11 +15,11 @@ class App extends Component {
     <div className="app">
       <div className="routes">
         <h1>{this.props.title}</h1>
-        <RoutesTable />
+        <Routes />
       </div>
 
       <div className="map">
-        <MapView />
+        <Map />
       </div>
     </div>
   );

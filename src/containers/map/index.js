@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import get from 'lodash/get';
 import GoogleMapReact from 'google-map-react';
-import { selectVehicles } from '../../reducers/vehicles';
+import selectVehicles from '../../selectors/select-vehicles';
 
 const Marker = props => (
   <div className="vehicle">
