@@ -12,6 +12,6 @@ const selectedRoute = (state = initialState, action) => {
     default:
       return state;
   }
-}
+};
 
 export default selectedRoute;

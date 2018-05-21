@@ -8,7 +8,7 @@ const routes = (state = initialState, action) => {
   switch (action.type) {
     case constants.DATA_RECEIVED:
       const newState = {};
-      action.payload.forEach((message) => {
+      action.payload.forEach(message => {
         const entity = get(message, ['entity', 0]);
         const routeId = get(entity, ['vehicle', 'trip', 'route_id']);
 
@@ -35,7 +35,7 @@ const routes = (state = initialState, action) => {
     default:
       return state;
   }
-}
+};
 
 export const selectTotalVehiclesOnRoute = (state, routeId) => {
   const vehicles = get(state, ['routes', routeId, 'vehicles'], {});
@@ -43,4 +43,3 @@ export const selectTotalVehiclesOnRoute = (state, routeId) => {
 };
 
 export default routes;
-

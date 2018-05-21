@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import {connect} from 'react-redux';
-import {get} from 'lodash';
+import { connect } from 'react-redux';
+import get from 'lodash/get';
 import MapView from '../map-view/map-view';
 import RoutesTable from '../routes-table/routes-table';
 import initializeRTM from '../../rtm/initialize-rtm-sdk';
@@ -25,8 +25,8 @@ class App extends Component {
   );
 }
 
-const mapStateToProps = (state) => ({
-  title: get(state, ['config', 'title']),
+const mapStateToProps = state => ({
+  title: get(state, ['config', 'title'])
 });
 
 const mapDispatchToProps = {

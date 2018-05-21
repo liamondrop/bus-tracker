@@ -27,7 +27,7 @@ class RoutesRow extends Component {
 const mapStateToProps = (state, ownProps) => ({
   totalVehicles: selectTotalVehiclesOnRoute(state, ownProps.id),
   isActive: state.selectedRoute === ownProps.id,
-  colors: get(state, ['config', 'colors']),
+  colors: get(state, ['config', 'colors'])
 });
 
 const mapDispatchToProps = {

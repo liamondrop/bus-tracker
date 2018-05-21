@@ -8,18 +8,14 @@ const RoutesTable = ({ routes }) => (
       <div className="route-name">Route Name</div>
       <div className="total-vehicles"># Vehicles</div>
     </div>
-    {Object.keys(routes).map((routeId) => (
-      <RoutesRow
-        key={routeId}
-        id={routeId}
-        route={routes[routeId]}
-      />
+    {Object.keys(routes).map(routeId => (
+      <RoutesRow key={routeId} id={routeId} route={routes[routeId]} />
     ))}
   </div>
 );
 
-const mapStateToProps = (state) => ({
-  routes: state.routes,
+const mapStateToProps = state => ({
+  routes: state.routes
 });
 
 export default connect(mapStateToProps)(RoutesTable);
