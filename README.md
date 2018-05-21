@@ -4,6 +4,8 @@ A project to visualize transportation data from the Satori [live transportation 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+![Screenshot](./screenshot.png)
+
 For the project to build, **these files must exist with exact filenames**:
 
 * `public/index.html` is the page template;
