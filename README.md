@@ -19,6 +19,10 @@ Otherwise, using npm:
 
 ### `npm install`
 
+## Satori API
+
+To retrieve data, you'll need to get an API key from [Satori](https://www.satori.com/livedata/channels/transportation). Update `RTM_APP_KEY` in `src/constants/index.js` with your key and you should be good to go.
+
 ## Starting the App
 
 In the project directory, run:
