@@ -1,5 +1,4 @@
 import RTM from 'satori-rtm-sdk';
-import messages from './messages';
 
 const RTM_ENDPOINT = "wss://open-data.api.satori.com";
 const APP_KEY = "36b5259FAddd1c7B768c19Ddea606Dcf";
