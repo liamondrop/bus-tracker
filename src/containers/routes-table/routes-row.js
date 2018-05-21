@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import get from 'lodash/get';
 import { selectTotalVehiclesOnRoute } from '../../reducers/routes';
-import { toggleSelectedRoute } from '../../actions/toggle-selected-row';
+import { toggleSelectedRoute } from '../../actions/toggle-selected-route';
 
 class RoutesRow extends Component {
   handleClick = () => {
