@@ -23,7 +23,7 @@ Otherwise, using npm:
 
 ## Satori API
 
-**__NOTE__** This app will not render new routes unless you obtain an app key from [Satori](https://www.satori.com/livedata/channels/transportation). Update `RTM_APP_KEY` in `src/constants/index.js` with your key and you should be good to go.
+**NOTE:** This app will not render new routes unless you obtain an app key from [Satori](https://www.satori.com/livedata/channels/transportation). Update `RTM_APP_KEY` in `src/constants/index.js` with your key and you should be good to go.
 
 ## Starting the App
 
