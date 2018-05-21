@@ -1,6 +1,5 @@
 import constants from '../constants';
 import get from 'lodash/get';
-import pick from 'lodash/pick';
 
 const initialState = {};
 
@@ -21,15 +20,5 @@ const vehicles = (state = initialState, action) => {
       return state;
   }
 };
-
-export function selectVehicles(state) {
-  const selectedRoute = state.selectedRoute;
-  const vehicles = state.vehicles;
-  if (!selectedRoute) {
-    return vehicles;
-  }
-  const routeVehicles = get(state, ['routes', selectedRoute, 'vehicles']);
-  return pick(vehicles, Object.keys(routeVehicles));
-}
 
 export default vehicles;
